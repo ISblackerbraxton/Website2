@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(255, 94, 0, 0.682);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    border: 7px solid black;
+    margin:45px;
+    padding:8px;
+}
+.emphasizedText{
+    font-style: italic;
+    font-weight: bold;
+}
+#top{
+    text-decoration: underline;
+    font-style:bold
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
+.navbar{
+    text-align: right;
+    text-decoration: underline;
+}
+.g{
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+    color:rgb(77, 72, 72)
+}
